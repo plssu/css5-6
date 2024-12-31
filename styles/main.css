@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+    padding: 10px 14px;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    background-color: #7F56D9;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+}
+
+h1 h2 h3 {
+    color: #000;
+}
+
+span {
+    color: #535862;
+}
+
+header {
+    display: flex;
+    width: 1440px;
+    padding: 22px 208px;
+    justify-content: center;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    width: 1024px;
+    justify-content: space-between;
+    align-items: center;
+    flex-shrink: 0;
+}
+
